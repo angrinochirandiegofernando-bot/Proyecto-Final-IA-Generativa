@@ -1,0 +1,92 @@
+[
+  {
+    "id": "FAQ-01",
+    "categoria": "Envíos",
+    "pregunta": "¿Cuánto tarda en llegar mi pedido?",
+    "respuesta": "Los pedidos llegan en 3 a 5 días hábiles a ciudades principales y en 5 a 8 días hábiles al resto del país, contados desde la confirmación del pago."
+  },
+  {
+    "id": "FAQ-02",
+    "categoria": "Envíos",
+    "pregunta": "¿Cuánto cuesta el envío?",
+    "respuesta": "El envío estándar cuesta 9.900 pesos a ciudades principales y 14.900 pesos al resto del país. Es gratis en compras iguales o superiores a 150.000 pesos."
+  },
+  {
+    "id": "FAQ-03",
+    "categoria": "Envíos",
+    "pregunta": "¿Hacen envíos internacionales?",
+    "respuesta": "No. Por ahora EcoMarket solo realiza envíos dentro de Colombia."
+  },
+  {
+    "id": "FAQ-04",
+    "categoria": "Envíos",
+    "pregunta": "¿Puedo cambiar la dirección de entrega después de comprar?",
+    "respuesta": "Sí, siempre que el pedido aún no haya sido enviado. El cambio se hace desde la sección Mis pedidos de la cuenta o escribiendo a soporte. Si el pedido ya está en estado Enviado, la dirección no se puede modificar."
+  },
+  {
+    "id": "FAQ-05",
+    "categoria": "Pedidos",
+    "pregunta": "¿Cómo puedo rastrear mi pedido?",
+    "respuesta": "Con el número de pedido que llega al correo de confirmación se puede consultar el estado en la sección Mis pedidos o preguntarle al asistente virtual indicando ese número."
+  },
+  {
+    "id": "FAQ-06",
+    "categoria": "Pedidos",
+    "pregunta": "¿Qué significan los estados de un pedido?",
+    "respuesta": "En procesamiento: el pago fue recibido y el pedido se está alistando. Facturado: la factura fue emitida y el pedido está por despacharse. Enviado: el pedido fue entregado a la transportadora. Entregado: el cliente ya recibió el pedido. Cancelado: el pedido fue anulado y no se despachará. No disponible: el producto se agotó después de la compra y soporte contactará al cliente para ofrecer reembolso o reemplazo."
+  },
+  {
+    "id": "FAQ-07",
+    "categoria": "Pedidos",
+    "pregunta": "¿Puedo cancelar un pedido?",
+    "respuesta": "Sí, sin costo, mientras el pedido esté En procesamiento o Facturado. Una vez Enviado ya no se puede cancelar y debe tramitarse como devolución cuando llegue."
+  },
+  {
+    "id": "FAQ-08",
+    "categoria": "Pagos",
+    "pregunta": "¿Qué medios de pago aceptan?",
+    "respuesta": "Tarjetas de crédito y débito Visa y Mastercard, PSE, Nequi y pago contra entrega en ciudades principales para compras de hasta 300.000 pesos."
+  },
+  {
+    "id": "FAQ-09",
+    "categoria": "Pagos",
+    "pregunta": "¿Puedo pagar a cuotas?",
+    "respuesta": "Sí, con tarjeta de crédito se puede diferir la compra hasta en 12 cuotas. Los intereses dependen del banco emisor de la tarjeta."
+  },
+  {
+    "id": "FAQ-10",
+    "categoria": "Pagos",
+    "pregunta": "¿Cómo obtengo la factura de mi compra?",
+    "respuesta": "La factura electrónica se envía al correo registrado cuando el pedido pasa a estado Facturado. También se puede descargar desde Mis pedidos."
+  },
+  {
+    "id": "FAQ-11",
+    "categoria": "Sostenibilidad",
+    "pregunta": "¿Los empaques de EcoMarket son ecológicos?",
+    "respuesta": "Sí. Todos los pedidos se despachan en cajas de cartón reciclado, con relleno de papel y cinta de papel engomado. No se usa plástico de burbujas."
+  },
+  {
+    "id": "FAQ-12",
+    "categoria": "Sostenibilidad",
+    "pregunta": "¿Cómo compensa EcoMarket la huella de carbono de los envíos?",
+    "respuesta": "EcoMarket compensa el 100% de las emisiones estimadas de cada envío mediante la compra de bonos de carbono de proyectos de reforestación en Colombia, sin costo adicional para el cliente."
+  },
+  {
+    "id": "FAQ-13",
+    "categoria": "Cuenta",
+    "pregunta": "Olvidé mi contraseña, ¿cómo la recupero?",
+    "respuesta": "En la página de inicio de sesión, la opción Olvidé mi contraseña envía un enlace al correo registrado. El enlace es válido durante 30 minutos."
+  },
+  {
+    "id": "FAQ-14",
+    "categoria": "Contacto",
+    "pregunta": "¿Cuál es el horario de atención de soporte humano?",
+    "respuesta": "Los agentes de soporte atienden de lunes a viernes de 8:00 a.m. a 6:00 p.m. y los sábados de 9:00 a.m. a 1:00 p.m., por el chat de la página o en el correo soporte@ecomarket.example. El asistente virtual está disponible las 24 horas."
+  },
+  {
+    "id": "FAQ-15",
+    "categoria": "Devoluciones",
+    "pregunta": "¿Dónde consulto las condiciones para devolver un producto?",
+    "respuesta": "Las condiciones completas están en la Política de Devoluciones y Reembolsos de EcoMarket. El plazo general para solicitar una devolución es de 30 días calendario desde la entrega."
+  }
+]

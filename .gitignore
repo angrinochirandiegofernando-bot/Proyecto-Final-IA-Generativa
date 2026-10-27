@@ -1,0 +1,22 @@
+# Clave del modelo de lenguaje (nunca se sube)
+.env
+
+# Material del curso
+Entrada/
+
+# Entorno virtual e índice vectorial (se regeneran al ejecutar)
+.venv/
+chroma_db/
+
+# Estado del sistema simulado (se regenera al usar el agente)
+Salida/devoluciones_registradas.json
+Salida/etiquetas/
+
+# Checkpoints y cachés
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db

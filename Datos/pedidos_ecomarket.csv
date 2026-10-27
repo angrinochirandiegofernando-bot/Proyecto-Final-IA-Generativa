@@ -1,0 +1,11 @@
+numero_pedido,correo_cliente,id_producto,cantidad,valor_producto_cop,costo_envio_cop,estado,fecha_compra,fecha_entrega,ciudad_destino
+EM-1001,ana.gomez@correo.com,ECO-007,1,69900,9900,Entregado,2026-10-15,2026-10-20,Cali
+EM-1002,carlos.ruiz@correo.com,ECO-013,1,118700,9900,Entregado,2026-10-14,2026-10-19,Bogotá
+EM-1003,lucia.mora@correo.com,ECO-008,1,189900,0,Entregado,2026-08-14,2026-08-20,Medellín
+EM-1004,jorge.diaz@correo.com,ECO-010,1,149900,14900,Enviado,2026-10-22,,Pasto
+EM-1005,sofia.herrera@correo.com,ECO-011,1,259900,0,En procesamiento,2026-10-25,,Cali
+EM-1006,ana.gomez@correo.com,ECO-002,2,49000,9900,Entregado,2026-10-08,2026-10-12,Cali
+EM-1007,pedro.lopez@correo.com,ECO-012,1,129900,9900,Cancelado,2026-10-05,,Barranquilla
+EM-1008,valentina.rios@correo.com,ECO-009,1,84900,9900,Entregado,2026-09-26,2026-10-01,Bogotá
+EM-1009,andres.castro@correo.com,ECO-016,1,159900,0,Entregado,2026-09-04,2026-09-10,Tuluá
+EM-1010,camila.vargas@correo.com,ECO-005,3,82500,14900,Entregado,2026-10-21,2026-10-24,Palmira

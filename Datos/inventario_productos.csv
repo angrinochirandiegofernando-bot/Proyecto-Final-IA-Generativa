@@ -1,0 +1,17 @@
+id_producto,nombre,categoria,descripcion,material,precio_cop,stock,garantia_meses,certificacion
+ECO-001,Cepillo de dientes de bambú,Belleza y salud,"Cepillo dental con mango de bambú y cerdas suaves, paquete de 4 unidades",Bambú moso y nailon libre de BPA,18900,240,0,FSC
+ECO-002,Champú sólido de romero,Belleza y salud,"Barra de champú sólido de 80 g para cabello graso, rinde cerca de 60 lavados",Aceites vegetales y extracto de romero,24500,130,0,Cruelty Free
+ECO-003,Desodorante natural en crema,Belleza y salud,"Desodorante en crema de 60 g sin aluminio ni parabenos, aroma a lavanda",Manteca de karité y bicarbonato,21900,0,0,Cruelty Free
+ECO-004,Detergente ecológico concentrado,Utilidades domésticas,"Detergente líquido biodegradable de 1 litro para ropa, rinde 40 lavadas",Tensioactivos de origen vegetal,32900,95,0,Ecolabel
+ECO-005,Bolsas reutilizables de algodón,Utilidades domésticas,"Juego de 5 bolsas de malla para frutas y verduras, lavables",Algodón orgánico,27500,310,0,GOTS
+ECO-006,Envolturas de cera de abejas,Utilidades domésticas,"Paquete de 3 envolturas reutilizables para alimentos, reemplazan el plástico de cocina",Algodón orgánico y cera de abejas,35900,75,0,GOTS
+ECO-007,Botella térmica de acero,Utilidades domésticas,"Botella de 750 ml que conserva el frío 24 horas y el calor 12 horas",Acero inoxidable 304,69900,58,12,Libre de BPA
+ECO-008,Cargador solar portátil,Informática y accesorios,"Panel solar plegable de 21 W con dos puertos USB para celular y tableta",Celdas monocristalinas y tela reciclada,189900,22,12,CE y RoHS
+ECO-009,Funda de portátil de corcho,Informática y accesorios,"Funda acolchada para portátil de hasta 15 pulgadas",Corcho natural y fieltro reciclado,84900,40,12,FSC
+ECO-010,Teclado inalámbrico de bambú,Informática y accesorios,"Teclado Bluetooth en español con carcasa de bambú y batería recargable",Bambú y plástico reciclado,149900,5,12,FSC y RoHS
+ECO-011,Estantería modular de madera,Muebles y decoración,"Estantería de 3 niveles, 90 cm de ancho, armado sin herramientas",Pino de bosques certificados,259900,14,6,FSC
+ECO-012,Lámpara de mesa de fibras naturales,Muebles y decoración,"Lámpara artesanal con pantalla tejida, incluye bombillo LED de 7 W",Fique y hierro reciclado,129900,0,6,Comercio Justo
+ECO-013,Perfume botánico de cítricos,Perfumería,"Agua de perfume de 50 ml con notas de bergamota y vetiver, envase recargable",Alcohol de caña y aceites esenciales,118700,36,0,Cruelty Free
+ECO-014,Perfume sólido de vainilla,Perfumería,"Perfume en barra de 15 g en lata reutilizable",Cera de candelilla y aceites esenciales,53900,64,0,Cruelty Free
+ECO-015,Ambientador de carbón de bambú para carro,Automotriz,"Bolsa purificadora de 200 g que absorbe olores, dura hasta 2 años",Carbón activado de bambú y lino,29900,120,0,FSC
+ECO-016,Kit de limpieza ecológica para carro,Automotriz,"Champú sin fosfatos de 500 ml, paño de microfibra reciclada y cepillo de fibra de coco",Fibras recicladas y tensioactivos vegetales,159900,18,0,Ecolabel
