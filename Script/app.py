@@ -31,7 +31,7 @@ EJEMPLOS = [
 
 @st.cache_resource(show_spinner="Cargando el modelo de embeddings y el índice vectorial...")
 def obtener_agente():
-    ag.base_conocimiento.almacen  # construye el índice una sola vez
+    _ = ag.base_conocimiento.almacen  # construye el índice una sola vez
     return ag.crear_agente()
 
 
