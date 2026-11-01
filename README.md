@@ -9,6 +9,8 @@ En el [Taller 1](https://github.com/angrinochirandiegofernando-bot/Taller-Pr-cti
 | Fase 3: análisis crítico y propuestas de mejora | Este documento |
 | Fase 4: despliegue con Streamlit | [`Script/app.py`](Script/app.py), generado desde la sección 12 del notebook |
 
+**Video de la demostración:** [ver en Google Drive](https://drive.google.com/file/d/1rSNtCn0xeaG-_xC-W8WZ8J7heEHD1hI6/view?usp=sharing)
+
 ---
 
 ## Fase 1: Diseño de la arquitectura del agente
